@@ -2,7 +2,7 @@ package Colecao;
 
 import java.util.ArrayList;
 
-public class Clientes {
+public class ListaDeClientes {
 
 	private ArrayList<Cliente> clientes = new ArrayList<Cliente>();
 

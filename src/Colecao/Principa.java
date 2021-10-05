@@ -3,7 +3,7 @@ package Colecao;
 public class Principa {
 
 	public static void main(String[] args) {
-		Clientes clientes = new Clientes();
+		ListaDeClientes clientes = new ListaDeClientes();
 		// Criar os Clientes
 		Cliente paulo = new Cliente("Paulo", "1111");
 		Cliente maria = new Cliente("Maria", "2222");
